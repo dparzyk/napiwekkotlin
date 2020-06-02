@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Napiwek</string>
+    <string name="perPersonStaticText">Na osobe</string>
+    <string name="billStaticText">Kwota całkowita</string>
+    <string name="tipStaticText">Napiwek</string>
+    <string name="numberOfPeopleStaticText">Ilość osób</string>
+</resources>
